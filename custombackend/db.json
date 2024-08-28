@@ -1,0 +1,30 @@
+{
+  "credentials": [
+    {
+      "id": "95b7",
+      "Name": "a",
+      "Email": "a@gmail.com",
+      "password": "1!aAsdfgh"
+    }
+  ],
+  "a@gmail.com": [
+    {
+      "id": "f64c",
+      "text": "a",
+      "day": "a",
+      "reminder": true
+    },
+    {
+      "id": "b0f6",
+      "text": "b",
+      "day": "b",
+      "reminder": true
+    },
+    {
+      "id": "ea36",
+      "text": "c",
+      "day": "c",
+      "reminder": false
+    }
+  ]
+}
